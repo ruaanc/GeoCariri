@@ -1,0 +1,30 @@
+html>
+	<head>
+		<title> Geoparque do Cariri Paraíbano </title> 
+	</head> 
+	<body> 
+		<h1><b><i>Projeto Geoparque do Cariri Paraíbano</i></b></h1> 
+		<hr />
+		<blockquote cite = http://geoparquecariri.org.br/> 
+		<p> O Projeto <strong> Geoparque Cariri Paraibano </strong> é um projeto em fase de implementação. 
+		<br />Sua proposta está sendo construída como uma parceria entre a <b> Universidade Federal da Paraíba (Campus IV – Litoral Norte)</b>, 
+		<br /> Serviço Geológico do Brasil – CPRM, Organizações Sociais e a comunidade local
+		<br /> dos municípios que fazem parte, e que são: Cabaceiras, Boqueirão, São João do Cariri e Boa Vista.</p> 
+		</blockquote>
+		<div class = "vcard">
+			<span class = "fn"> Ruan Carlos Alves da Silva </ span>
+			<div class = "org"> Email: </ div>
+			<a class="email" href="mailto:ruan.carlos@dce.ufpb.br">
+				ruan.carlos@dce.ufpb.br
+			</a>
+			<div class = "adr">
+			<div class = "street-address"> Rua Francisco Gerbasi </ div>
+			<span class = "locality"> Centro </ span>, 
+			<span class = "region"> Rio Tinto </ span>, 
+			<span class = "postal-code"> 58297 </ span>
+			<span class = "country-name"> Brasil </ span>
+			</ div>
+		</ div>
+	</body> 
+</html> 
+		
