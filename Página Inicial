@@ -5,12 +5,37 @@
 	<body> 
 		<h1><b><i>Projeto Geoparque do Cariri Paraíbano</i></b></h1> 
 		<hr />
-		<blockquote cite = http://geoparquecariri.org.br/> 
 		<p> O Projeto <strong> Geoparque Cariri Paraibano </strong> é um projeto em fase de implementação. 
-		<br />Sua proposta está sendo construída como uma parceria entre a <b> Universidade Federal da Paraíba (Campus IV – Litoral Norte)</b>, 
-		<br /> Serviço Geológico do Brasil – CPRM, Organizações Sociais e a comunidade local
-		<br /> dos municípios que fazem parte, e que são: Cabaceiras, Boqueirão, São João do Cariri e Boa Vista.</p> 
-		</blockquote>
+		Sua proposta está sendo construída como uma parceria entre<br /> a <b> Universidade Federal da Paraíba (Campus IV – Litoral Norte)</b>, 
+		 Serviço Geológico do Brasil – CPRM, Organizações Sociais e a comunidade<br />  local
+		dos municípios que fazem parte, e que são: Cabaceiras, Boqueirão, São João do Cariri e Boa Vista.</p> 
+		
+		<p> A área do geoparque será de aproximadamente 1.980 km2, correspondendo ao somatório dos territórios dos 
+		04 municípios anteriormente citados.<br/> Neste território já foram identificados mais de 15 geossítios, havendo
+		possibilidade de franca expansão destes.</p>
+		
+		<p> A litologia básica da área é composta por rochas magmáticas (granitos e ocorrências localizadas de basaltos)
+		e metamórficas (gnaisses, filitos, xistos e migmatitos).<br/> A região é possuidora de notável beleza cênica derivada 
+		da presença de batólitos, inselbergs e diques associados ao magmatismo ocorrido no Neoproterozóico.<br/>Destaca-se ainda a Bacia Sedimentar 
+		de Boa Vista – BBV, onde ocorrem <em>pillow</em> lavas, depósitos sedimentares bentoníticos. </p>
+		
+		<p>Interessante também é destacar o grande potencial paleontológico e arqueológico existente na região. Em quase todos os municípios da região 
+		pode-se identificar sítios<br/> arqueológicos constituídos principalmente de artes rupestres na forma de gravuras (itacoatiaras) e de pinturas em 
+		rochas e, em pelo menos 06 municípios já foram relatadas<br/> descobertas de registros fósseis de animais da megafauna (LIMA E MENESES, 2012), além 
+		de depósitos fossilíferos de restos vegetais na BBV, onde predominam espécies<br/> das famílias <em>Fabaceae, Lauraceae, Annonaceae, Burseraceae, Anacardiaceae, 
+		Myrtaceae e Malvaceae</em> (PANIZ, 2015).</p>
+		
+		<p>A atuação dos agentes intempéricos (químicos, físicos e biológicos) sobre as rochas da região, ao longo do tempo geológico, produziram feições que se destacam
+		na paisagem,<br/> tais como diques em forma de muralhas (como a Muralha do Meio do Mundo no município de São João do Cariri) e os boulders ou mares de bolas (Lajedo do 
+		Pai Mateus em<br/> Cabaceiras, por exemplo), pela denudação ou pelo esculpimento das rochas, respectivamente (MENESES E NASCIMENTO, 2014b).</p>
+		
+		<p>A região onde se insere o PGCP apresenta, portanto, uma paisagem de excepcional beleza, em grande parte relacionada ao seu patrimônio geomorfológico, que já se
+		consolidou<br/> como atrativo turístico de expressividade nacional e até internacional. O local possui atrações de importância para a prática do (geo)turismo, representando
+		exemplo de sucesso<br/> em projetos de conservação ambiental e interiorização turística.</p>
+		
+		<p>A UFPB tem sido  uma instituição parceira no fomento da proposta, colaborando com projetos de extensão e ensino para divulgar o projeto e promover a educação ambiental,<br/> além
+		de projetos de pesquisa visando o inventário dos geossítios, a identificação do potencial natural/cultural da região e estudos de conservação do geopatrimônio.</p>
+		
 		<div class = "vcard">
 			<span class = "fn"> Ruan Carlos Alves da Silva </ span>
 			<div class = "org"> Email: </ div>
@@ -27,4 +52,3 @@
 		</ div>
 	</body> 
 </html> 
-		
